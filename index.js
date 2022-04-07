@@ -29,3 +29,5 @@ var str=`abcd`
 console.log(str)
 str="how r u ?"
 console.log(str)
+str='lol'
+console.log(str)
