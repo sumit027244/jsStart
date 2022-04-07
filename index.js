@@ -31,3 +31,13 @@ str="how r u ?"
 console.log(str)
 str='lol'
 console.log(str)
+
+str="how r u ?\ni am fine"
+console.log(str);
+
+str=`how r u?
+i am fine`
+console.log(str)
+
+var num=1000;
+console.log(`haf of ${num} is ${num/2}`)
